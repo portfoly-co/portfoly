@@ -1,4 +1,7 @@
-# portfoly
+<a href="https://payloadcms.com"><img width="100%" src="https://portfoly.co/api/images/file/github_banner.jpg" alt="Payload headless CMS Admin panel built with React" /></a>
+<br />
+<br />
+
 > [!NOTE]
 > 😊 <strong>portfoly</strong> was developed to simplify access to personal portfolios.
 
