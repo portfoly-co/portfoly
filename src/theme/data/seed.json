@@ -1,0 +1,190 @@
+{
+  "collections": [
+    {
+      "name": "portfolios",
+      "data": {
+        "name": "portfoly",
+        "image:image": "logo_512x512.jpg",
+        "links": [
+          {
+            "blockType": "link_block",
+            "text": "E-Mail",
+            "type": "email",
+            "url": "support@xenonflare.com"
+          },
+          {
+            "blockType": "link_block",
+            "text": "GitHub",
+            "type": "external",
+            "url": "https://github.com/portfoly-co/portfoly"
+          }
+        ]
+      }
+    },
+    {
+      "name": "themes",
+      "data": {
+        "active": true,
+        "name": "portfoly",
+        "layout": [
+          {
+            "blockType": "navbar_segment",
+            "call_to_action": [
+              {
+                "text": "View on GitHub",
+                "url": "https://github.com/portfoly-co/portfoly",
+                "blockType": "link_block"
+              }
+            ]
+          },
+          {
+            "blockType": "header_segment",
+            "greeting:html": [
+              {
+                "type": "h1",
+                "text": "Hello👋,"
+              },
+              {
+                "type": "h1",
+                "text": "Welcome to portfoly"
+              }
+            ],
+            "about:html": [
+              {
+                "type": "p",
+                "text": "The first-ever CMS for portfolio websites."
+              }
+            ],
+            "call_to_action": [
+              {
+                "text": "View on GitHub",
+                "url": "https://github.com/portfoly-co/portfoly",
+                "blockType": "link_block"
+              }
+            ]
+          },
+          {
+            "blockType": "features_segment",
+            "title:html": [
+              {
+                "type": "h1",
+                "text": "Features",
+                "format": "center"
+              },
+              {
+                "type": "p",
+                "text": "",
+                "format": "center"
+              },
+              {
+                "type": "p",
+                "text": "ALL IN ONE✅",
+                "format": "center"
+              }
+            ],
+            "features": [
+              {
+                "title": "Open Source",
+                "description:html": [
+                  {
+                    "type": "p",
+                    "text": "Continuous development and free themes."
+                  }
+                ]
+              },
+              {
+                "title": "Low Code",
+                "description:html": [
+                  {
+                    "type": "p",
+                    "text": "Change everything with a little code."
+                  }
+                ]
+              },
+              {
+                "title": "TailwindCSS",
+                "description:html": [
+                  {
+                    "type": "p",
+                    "text": "Written with TailwindCSS"
+                  }
+                ]
+              },
+              {
+                "title": "PayloadCMS",
+                "description:html": [
+                  {
+                    "type": "p",
+                    "text": "Written with PayloadCMS"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "blockType": "github_segment",
+            "call_to_action": [
+              {
+                "text": "View on GitHub",
+                "url": "https://github.com/portfoly-co/portfoly",
+                "blockType": "link_block"
+              }
+            ],
+            "title:html": [
+              {
+                "type": "h1",
+                "text": "Open Source",
+                "format": "center"
+              },
+              {
+                "type": "p",
+                "text": "",
+                "format": "center"
+              },
+              {
+                "type": "p",
+                "text": "Let's get better",
+                "format": "center"
+              },
+              {
+                "type": "p",
+                "text": "together.",
+                "format": "center"
+              }
+            ],
+            "image:image": "github_banner.jpg"
+          },
+          {
+            "blockType": "contact_segment",
+            "title:html": [
+              {
+                "type": "h1",
+                "text": "Contact us",
+                "format": "center"
+              },
+              {
+                "type": "p",
+                "text": "",
+                "format": "center"
+              },
+              {
+                "type": "p",
+                "text": "We welcome your feedback,",
+                "format": "center"
+              },
+              {
+                "type": "p",
+                "text": "including requests, praise and improvements",
+                "format": "center"
+              }
+            ]
+          },
+          {
+            "blockType": "footer_segment",
+            "text": "portfoly.co © - 2025 - From developers to all the others."
+          }
+        ]
+      }
+    }
+  ]
+}
