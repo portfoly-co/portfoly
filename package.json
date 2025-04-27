@@ -22,7 +22,8 @@
     "start": "cross-env NODE_OPTIONS=--no-deprecation next start",
     "test": "jest",
     "seed": "node ./console/seed.js",
-    "reset": "node ./console/reset.js"
+    "reset": "node ./console/reset.js",
+    "segment:add": "node ./console/segment_add.js"
   },
   "dependencies": {
     "@payloadcms/db-mongodb": "^3.35.1",

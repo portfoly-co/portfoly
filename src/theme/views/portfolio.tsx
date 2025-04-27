@@ -1,11 +1,11 @@
 import React from 'react'
 import { Theme } from '@/payload-types'
-import FooterSegmentComponent from './segements/footer_segment'
-import ContactSegmentComponent from './segements/contact_segment'
-import HeaderSegmentComponent from './segements/header_segment'
-import NavbarSegmentComponent from './segements/navbar_segment'
-import FeaturesSegmentComponent from './segements/features_segment'
-import GitHubSegmentComponent from './segements/github_segment'
+import FooterSegmentComponent from './segments/footer_segment'
+import ContactSegmentComponent from './segments/contact_segment'
+import HeaderSegmentComponent from './segments/header_segment'
+import NavbarSegmentComponent from './segments/navbar_segment'
+import FeaturesSegmentComponent from './segments/features_segment'
+import GitHubSegmentComponent from './segments/github_segment'
 
 type PortfolioPageProps = {
   theme: Theme

@@ -1,0 +1,14 @@
+import React from 'react'
+import { [(blockName)] } from '@/payload-types'
+
+type [(componentName)]Props = {
+  segment: [(blockName)]
+}
+
+const [(componentName)] = ({ segment }: [(componentName)]Props) => {
+  return (
+    <div></div>
+  )
+}
+
+export default [(componentName)]
