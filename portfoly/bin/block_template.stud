@@ -1,0 +1,9 @@
+import { Block } from 'payload'
+
+const [(blockName)]: Block = {
+  slug: '[(slug)]',
+  interfaceName: '[(blockName)]',
+  fields: [],
+}
+
+export default [(blockName)]
