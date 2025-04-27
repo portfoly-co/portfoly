@@ -71,6 +71,6 @@ npm run build
 ### Start server
 example with pm2 on port 4334
 ```
-pm2 start npx --name "portfolio" -- next start -p 4334
+pm2 start npx --name "portfoly" -- next start -p 4334
 ```
 - Create a new admin user
