@@ -14,7 +14,7 @@ const main = async () => {
   const segmentName = name + 'Segment'
   const blockName = segmentName + 'Block'
   const componentName = segmentName + 'Component'
-  let slug = name.toLowerCase()
+  let slug = name.toLowerCase() + '_segment'
 
   blockData = blockData.replaceAll('[(slug)]', slug)
   blockData = blockData.replaceAll('[(name)]', name)
@@ -40,7 +40,7 @@ const main = async () => {
   segmentData = segmentData.replaceAll('[(componentName)]', componentName)
   segmentData = segmentData.replaceAll('[(blockName)]', blockName)
 
-  fs.writeFileSync('./src/theme/views/segments/' + slug + '_segment.tsx', segmentData)
+  fs.writeFileSync('./src/theme/views/segments/' + slug + '.tsx', segmentData)
 
   console.log('\x1b[42m\x1b[37mDone.\x1b[0m')
 
