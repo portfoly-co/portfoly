@@ -5,7 +5,7 @@ import GitHubSegmentBlock from './payload/blocks/GitHubSegmentBlock'
 import HeaderSegmentBlock from './payload/blocks/HeaderSegmentBlock'
 import NavbarSegmentBlock from './payload/blocks/NavbarSegmentBlock'
 
-export default {
+const config = {
   collections: [],
   blocks: [
     NavbarSegmentBlock,
@@ -16,3 +16,5 @@ export default {
     FooterSegmentBlock,
   ],
 }
+
+export default config
