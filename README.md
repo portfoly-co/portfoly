@@ -1,4 +1,4 @@
-<a href="https://payloadcms.com"><img width="100%" src="https://portfoly.co/api/images/file/github_banner.jpg" alt="Payload headless CMS Admin panel built with React" /></a>
+<a href="https://portfoly.co"><img width="100%" src="https://portfoly.co/api/images/file/github_banner.jpg" alt="Portfolio CMS" /></a>
 <br />
 <br />
 
